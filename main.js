@@ -4,7 +4,7 @@ const map = new mapboxgl.Map({
       container: 'map',
       style: 'mapbox://styles/mapbox-map-design/ckhqrf2tz0dt119ny6azh975y',
       center: [-103.2502, 29.2498],
-      zoom: 9, // starting zoom
+      zoom: 11, // starting zoom
       pitch: 85,
       bearing: 80,
       });
